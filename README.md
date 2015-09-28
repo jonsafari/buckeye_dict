@@ -4,6 +4,7 @@ It is comparable to [CMUDict][], but is derived from a large-scale speech corpus
 
 ## File Format
 The dictionary consists a four columns separated by tabs:
+
 1. Word
 2. Phonological transcription, derived from [Arpabet][]
 3. Number of occurrences in corpus
